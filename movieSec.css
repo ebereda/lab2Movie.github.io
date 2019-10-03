@@ -128,6 +128,6 @@ font-weight: bold;
 #validator{
     float: right;
 }
-p>ul li{
+ul li{
     list-style-type: none;
 }
